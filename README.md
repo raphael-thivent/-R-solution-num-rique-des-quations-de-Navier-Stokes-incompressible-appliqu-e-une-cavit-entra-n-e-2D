@@ -69,7 +69,7 @@ Enfin, une étude en fonction du nombre de Rayleigh montre l’apparition de cel
 
 ### Rapport
 
-[Consulter le rapport complet](Rapport_Proj-scientifique_2026.pdf)
+[Consulter le rapport complet](rapport/Rapport_Proj-scientifique_2026.pdf)
 
 Le rapport présente l'ensemble de la démarche, de l'étude des équations de Navier-Stokes jusqu'à la résolution numérique des problèmes de cavité entraînée ainsi que des instabilités de Rayleigh-Bénard, avec l'analyse des résultats obtenus.
 
