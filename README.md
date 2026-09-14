@@ -83,3 +83,20 @@ Projet réalisé à l'INSA Rouen Normandie dans le cadre du projet scientifique 
 
 Enseignant-responsable : **Pierre Bénard**
 
+## Nombres adimensionnels
+
+### Nombre de Reynolds — Re
+
+Le **nombre de Reynolds** caractérise le rapport entre les **forces d’inertie** et les **forces visqueuses** dans un écoulement. Il permet notamment d’évaluer l’influence de la viscosité sur la dynamique du fluide.
+
+```math
+Re = \frac{UL}{\nu}
+```
+### Nombre de Rayleigh — Ra
+
+Le **nombre de Rayleigh** caractérise la tendance d’un fluide à passer de la conduction thermique à la convection naturelle.  Il compare les forces de flottabilité, qui favorisent le mouvement du fluide, aux forces visqueuses et à la diffusivité thermique, qui s’opposent à ce mouvement.
+
+```math
+Ra = \frac{gL^3\beta\Delta T}{\nu\alpha}
+```
+avec $\alpha = \frac{\lambda}{\rho * C_p}$ la diffusivité thermique.
