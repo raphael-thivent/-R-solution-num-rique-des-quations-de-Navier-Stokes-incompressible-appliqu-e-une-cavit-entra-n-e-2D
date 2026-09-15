@@ -110,7 +110,6 @@ Le **nombre de Rayleigh** caractérise la tendance d’un fluide à passer de la
 ```math
 Ra = \frac{gL^3\beta\Delta T}{\nu\alpha}
 ```
-avec $\alpha = \frac{\lambda}{\rho * C_p}$ la diffusivité thermique.
   
 Avec, 
 <div align="center">
