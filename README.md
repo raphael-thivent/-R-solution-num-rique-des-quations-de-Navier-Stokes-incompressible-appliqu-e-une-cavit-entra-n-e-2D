@@ -92,6 +92,17 @@ Le **nombre de Reynolds** caractérise le rapport entre les **forces d’inertie
 ```math
 Re = \frac{UL}{\nu}
 ```
+Avec, 
+<div align="center">
+
+| Symbole | Description |
+|:---:|:---|
+| $U$ | vitesse |
+| $L$ | Longueur caractéristique |
+| $\nu$ | Viscosité cinématique |
+
+</div>
+
 ### Nombre de Rayleigh — Ra
 
 Le **nombre de Rayleigh** caractérise la tendance d’un fluide à passer de la conduction thermique à la convection naturelle.  Il compare les forces de flottabilité, qui favorisent le mouvement du fluide, aux forces visqueuses et à la diffusivité thermique, qui s’opposent à ce mouvement.
@@ -100,3 +111,17 @@ Le **nombre de Rayleigh** caractérise la tendance d’un fluide à passer de la
 Ra = \frac{gL^3\beta\Delta T}{\nu\alpha}
 ```
 avec $\alpha = \frac{\lambda}{\rho * C_p}$ la diffusivité thermique.
+  
+Avec, 
+<div align="center">
+
+| Symbole | Description |
+|:---:|:---|
+| $g$ | Accélération gravitationnelle |
+| $\beta$ | Coefficient de dilatation thermique |
+| $\Delta T$ | Différence de température |
+| $L$ | Longueur caractéristique |
+| $\nu$ | Viscosité cinématique |
+| $\alpha$ | Diffusivité thermique |
+
+</div>
